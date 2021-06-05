@@ -11,3 +11,8 @@
 ## Run Drakefile:
 
 - deno run -A Drakefile.ts hello
+
+## Save cached dependencies:
+
+- export DENO_DIR=deno_dir
+- deno cache main.ts
