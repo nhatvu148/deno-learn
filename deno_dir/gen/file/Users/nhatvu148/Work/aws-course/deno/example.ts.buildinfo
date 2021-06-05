@@ -272,8 +272,8 @@
         "affectsGlobalScope": true
       },
       "file:///Users/nhatvu148/Work/aws-course/deno/example.ts": {
-        "version": "0297a5b2f8fd501ae72d1ee68e4367be8403886bb5def73e30fe0f1cc9619fd6",
-        "signature": "4eb8a271cb4e973deb131ea6314d4a4336631499a3ce3b6a477fafd3bde229ad",
+        "version": "747f1f40024c19a175b266538e4bf7657c50ef221c79850dbc2d5c6f0678c936",
+        "signature": "0dbaeddfc71cc809112e3f792e677a91876acf8acc8a6821dd7147266a676519",
         "affectsGlobalScope": true
       }
     },

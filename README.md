@@ -26,3 +26,7 @@
 - deno run main.ts
 - deno run https://mydomain.com/main.ts
 - cat main.ts | deno run -
+
+## Watch:
+
+- deno run --watch example.ts
