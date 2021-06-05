@@ -20,3 +20,9 @@
 ## Packages:
 
 - https://deno.land/x
+
+## Script source, - as stdin:
+
+- deno run main.ts
+- deno run https://mydomain.com/main.ts
+- cat main.ts | deno run -
